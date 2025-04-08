@@ -1,0 +1,10 @@
+D:\WinDesktop\PicProcess\PicProcess\bin\Debug\PicProcess.exe.config
+D:\WinDesktop\PicProcess\PicProcess\bin\Debug\PicProcess.exe
+D:\WinDesktop\PicProcess\PicProcess\bin\Debug\PicProcess.pdb
+D:\WinDesktop\PicProcess\PicProcess\obj\Debug\PicProcess.csproj.AssemblyReference.cache
+D:\WinDesktop\PicProcess\PicProcess\obj\Debug\PicProcess.Form1.resources
+D:\WinDesktop\PicProcess\PicProcess\obj\Debug\PicProcess.Properties.Resources.resources
+D:\WinDesktop\PicProcess\PicProcess\obj\Debug\PicProcess.csproj.GenerateResource.cache
+D:\WinDesktop\PicProcess\PicProcess\obj\Debug\PicProcess.csproj.CoreCompileInputs.cache
+D:\WinDesktop\PicProcess\PicProcess\obj\Debug\PicProcess.exe
+D:\WinDesktop\PicProcess\PicProcess\obj\Debug\PicProcess.pdb
